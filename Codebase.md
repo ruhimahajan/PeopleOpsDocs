@@ -38,7 +38,7 @@ Our targets for full visual and functional support are:
 
 Browsers - IE: 10+, Chrome: 30+, Firefox: 30+, Safari 7+, Opera 23+.
 
-Android - 4.4+, iOS - 8+, Windows Phone - 8+
+Android - 4.4+, iOS - 9+, Windows Phone - 8+
 
 ## 8. Does your codebase require a build process, and is it automated?
 
@@ -62,4 +62,8 @@ All current Kayako OnDemand servers are running on SoftLayer, our next version w
 
 ## 13. Do you contribute to open source libraries?
 
-Whenever we find ourselves making changes to a third-party library, we consider whether the change could be beneficial for the community and create a PR upstream if so. Here's a recent PR from one of our Go folks - [https://github.com/keimoon/gore/pull/4](https://github.com/keimoon/gore/pull/4)
+Yes. Licensing *TK*
+
+## 14. Do you contribute to open source libraries?
+
+Whenever we find ourselves making changes to a third-party library, we consider whether the change could be beneficial for the community and create a PR upstream if so. Here's a recent PR from one of our Go folks - [https://github.com/keimoon/gore/pull/4](https://github.com/keimoon/gore/pull/4) and one from our iOS dev: [https://github.com/gmertk/ParkedTextField/pull/19](https://github.com/gmertk/ParkedTextField/pull/19)
