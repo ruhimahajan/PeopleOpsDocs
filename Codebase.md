@@ -54,16 +54,12 @@ We use an in-house MVC framework.
 
 ## 11. What is your primary backend language, including version?
 
-*TK* PHP v5.6. We stick to the latest stable version.
+*TK* PHP v7.0.4. We stick to the latest stable version.
 
 ## 12. Do you host your product yourself (Local, CoLo, VPS) or is it running on a cloud platform such as AWS or Heroku?
 
 All current Kayako OnDemand servers are running on SoftLayer, our next version will be completely hosted on AWS.
 
-## 13. Do you use open source libraries, and are you aware of the licensing on those libraries?
-
-Yes. Licensing *TK*
-
-## 14. Do you contribute to open source libraries?
+## 13. Do you contribute to open source libraries?
 
 Whenever we find ourselves making changes to a third-party library, we consider whether the change could be beneficial for the community and create a PR upstream if so. Here's a recent PR from one of our Go folks - [https://github.com/keimoon/gore/pull/4](https://github.com/keimoon/gore/pull/4)
